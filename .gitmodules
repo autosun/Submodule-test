@@ -1,0 +1,6 @@
+[submodule "toolset"]
+	path = toolset
+	url = https://github.com/autosun/autosun-toolset.git
+[submodule "uva"]
+	path = uva
+	url = git@github.com:autosun/Uva-code.git
